@@ -1,0 +1,21 @@
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\bin\Debug\Assembler (LEGv8).exe.config
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\bin\Debug\Assembler (LEGv8).exe
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\bin\Debug\Assembler (LEGv8).pdb
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).csproj.AssemblyReference.cache
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).csproj.SuggestedBindingRedirects.cache
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler__LEGv8_.GUI.resources
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler__LEGv8_.Properties.Resources.resources
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).csproj.GenerateResource.cache
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).csproj.CoreCompileInputs.cache
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).exe
+C:\Users\Brandon Mitchell\Desktop\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).pdb
+E:\Assembler (LEGv8)\Assembler (LEGv8)\bin\Debug\Assembler (LEGv8).exe.config
+E:\Assembler (LEGv8)\Assembler (LEGv8)\bin\Debug\Assembler (LEGv8).exe
+E:\Assembler (LEGv8)\Assembler (LEGv8)\bin\Debug\Assembler (LEGv8).pdb
+E:\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).csproj.AssemblyReference.cache
+E:\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler__LEGv8_.GUI.resources
+E:\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler__LEGv8_.Properties.Resources.resources
+E:\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).csproj.GenerateResource.cache
+E:\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).csproj.CoreCompileInputs.cache
+E:\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).exe
+E:\Assembler (LEGv8)\Assembler (LEGv8)\obj\Debug\Assembler (LEGv8).pdb
